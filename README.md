@@ -5,7 +5,7 @@
 :- class with objects
 :- class with array
 :- class with conditions
-:- class with array
+:- style with property
 
 
 ## Project setup
