@@ -1,4 +1,12 @@
 # binding
+## class and style Bindings
+:- how to use class 
+:- how to use a style
+:- class with objects
+:- class with array
+:- class with conditions
+:- class with array
+
 
 ## Project setup
 ```
