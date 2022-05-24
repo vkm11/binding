@@ -1,13 +1,19 @@
 <template>
   <Home/>
+  
+  <h1>Data Binding in vue js</h1>
+  <Data_binding />
+  
 </template>
 
 <script>
 import Home from './components/Home'
+import Data_binding from './components/Data_binding'
 export default {
   name: 'App',
   components: {
-    Home
+    Home,
+    Data_binding
   }
 }
 </script>
